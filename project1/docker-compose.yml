@@ -1,0 +1,7 @@
+services:
+  web:
+    image: node:18
+    volumes:
+      - .:/usr/src/app  # Mounts current folder to /usr/src/app
+    working_dir: /usr/src/app
+    command: npm start
