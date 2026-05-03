@@ -1,0 +1,2 @@
+# File: event_source/requirements.txt
+redis==5.0.8

@@ -1,0 +1,2 @@
+# File: functions/notifier/requirements.txt
+Flask==3.0.3
